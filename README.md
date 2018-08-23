@@ -1,5 +1,5 @@
-# Quantum-state-tomography-on-spatial-modes
-Quantum state tomography on spatial modes: quantum concepts and classical implementation with intense light.
+# Quantum state tomography on spatial modes: quantum concepts and classical implementation with intense light.
+
 This repository contains up-to-date suplementary material to the 3D designs and software required to operate the roto-flip stages.
 As bugs are found and rectified new versions of the relevant files will be uploaded here.
 
